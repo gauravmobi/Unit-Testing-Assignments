@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f6bf74f-1fc9-4830-8ef9-2ce419ab28b8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1X21A8jlgCORDnan3mLYghRbSZj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="JUnit.BerlinClockTest">
+    <configuration name="BerlinClockTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BerlinClockTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BerlinClockTest.testForNullCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BerlinClockTest" />
+      <option name="METHOD_NAME" value="testForNullCheck" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BerlinClockTest" />
+        <item itemvalue="JUnit.BerlinClockTest.testForNullCheck" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f6bf74f-1fc9-4830-8ef9-2ce419ab28b8" name="Default Changelist" comment="" />
+      <created>1580229228475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580229228475</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="415" y="153" key="#BerlinClockTest.testForNullCheck" timestamp="1580275835477">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="415" y="153" key="#BerlinClockTest.testForNullCheck/0.23.1680.947@0.23.1680.947" timestamp="1580275835477" />
+    <state x="240" y="143" width="1200" height="707" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1580275277584">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="240" y="143" width="1200" height="707" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1680.947@0.23.1680.947" timestamp="1580275277584" />
+    <state width="1358" height="179" key="GridCell.Tab.0.bottom" timestamp="1580276181341">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1358" height="179" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1580276181341" />
+    <state width="1358" height="179" key="GridCell.Tab.0.center" timestamp="1580276181340">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1358" height="179" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1580276181340" />
+    <state width="1358" height="179" key="GridCell.Tab.0.left" timestamp="1580276181339">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1358" height="179" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1580276181339" />
+    <state width="1358" height="179" key="GridCell.Tab.0.right" timestamp="1580276181340">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1358" height="179" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1580276181340" />
+    <state x="349" y="135" key="SettingsEditor" timestamp="1580230421029">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="349" y="135" key="SettingsEditor/0.23.1680.947@0.23.1680.947" timestamp="1580230421029" />
+    <state x="552" y="397" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1580229249150">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="552" y="397" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1680.947@0.23.1680.947" timestamp="1580229249150" />
+    <state x="506" y="132" width="667" height="729" key="find.popup" timestamp="1580273950451">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="506" y="132" width="667" height="729" key="find.popup/0.23.1680.947@0.23.1680.947" timestamp="1580273950451" />
+  </component>
+</project>
